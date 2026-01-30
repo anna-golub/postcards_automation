@@ -2,11 +2,11 @@
 
 **Anna Golub**  
 Thesis topic: **Automation of a digital postcard database's growth and quality control**  
-Intellectual Systems in the Humanitarian Sphere (Bachelor)  
-ITMO University, St. Petersburg, Russia  
+BSc. Intelligent Systems in Humanities (Data Science major)  
+ITMO University, St. Petersburg, Russia (2023)  
 
 ## Introduction
-In preparation of my bachelor’s thesis, I worked as a process automation lead at Pishu Tebe (en. Writing to You) . Pishu tebe is a volunteer-based project aimed at creating a digital corpus of transcribed postcards. In my role as process automation lead, I introduced multiple computerized shortcuts to the tedious manual work on the postcard corpus, which have significantly accelerated the growth of the corpus in size and helped ensure its quality. I describe my contribution in detail below .
+In preparation of my bachelor’s thesis, I worked as a process automation lead at [Pishu Tebe](https://pishutebe.ru/) (en. *Writing to You*) . Pishu Tebe is a volunteer-based project aimed at creating a digital corpus of transcribed postcards. In my role as process automation lead, I introduced multiple computerized shortcuts to the tedious manual work on the postcard corpus, which have significantly accelerated the growth of the corpus in size and helped ensure its quality. I describe my contribution in detail below .
 
 ## Database Growth
 Firstly, Pishu tebe is always in need of new postcard scans: they make up the content of the corpus together with their transcriptions (those include the message from the back of the postcard, send and receive dates, addressee and addresser’s names, etc.) New postcards come in from private collections and museums, but also, for the most part, from collector’s marketplaces and stores online. I wrote a script that allows to automatically scrape postcard scans from open sources on the Internet. From September 2022 to April 2023, using the parser, I scraped almost 240,000 postcards, about 20,000 of which have so far been added to the corpus and transcribed. Such scale would not have been possible without an automated scraping tool.
